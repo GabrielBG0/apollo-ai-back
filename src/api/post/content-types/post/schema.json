@@ -29,6 +29,10 @@
     "Writer": {
       "type": "string",
       "required": true
+    },
+    "Sub": {
+      "type": "string",
+      "required": true
     }
   }
 }
